@@ -24,8 +24,11 @@
 #(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 #SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-#TODO: port BeautifulSoup dependency to lxml (due to BS 3.1 parsing intolerances)
-#TODO: expand TITLEENDSWITH array to be flexible release name handler (XBMC has some robust routines for exactly this)
+# TODO: port BeautifulSoup dependency to lxml (due to BS 3.1 parsing intolerances)
+# TODO: expand TITLEENDSWITH array to be flexible release name handler (XBMC has some robust routines for exactly this)
+# TODO: Django!
+# TODO: Usenet!
+# TODO: IMDB!
 
 from BeautifulSoup import BeautifulSoup
 from urllib import urlopen
