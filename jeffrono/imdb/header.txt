@@ -1,0 +1,36 @@
+<html>
+<head>
+<title>IMDB Torrents</title>
+
+<style type="text/css">
+.stylegreen {	color: #009900;
+	font-weight: bold;
+}
+.styleyr {
+	text-align: center;
+	font-weight: bold;
+	font-size: xx-large;
+}
+
+.stylered {	color: #FF0000;
+	font-weight: bold;
+}
+.stylebig {
+	font-size: x-large;
+	font-weight: bold;
+}
+.stylemedium {
+	font-size: medium;
+	font-weight: bold;
+}
+.stylesmall {font-size: small}
+-->
+</style>
+</head>
+
+<body>
+
+<span class="stylebig">IMDB Torrents
+</span>
+<img src="http://www.endust.com/images/green-check.gif" alt="Verified!!" width="20" height="20"> = Verified torrent, copy is perfect <br>
+<br>
